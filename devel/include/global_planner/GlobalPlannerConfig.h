@@ -1,0 +1,1 @@
+/home/sundong/Exploring/localplanning/ros_navigation_stack_vrep_simulation/devel/.private/global_planner/include/global_planner/GlobalPlannerConfig.h

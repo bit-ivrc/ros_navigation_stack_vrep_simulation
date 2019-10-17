@@ -1,0 +1,1 @@
+/home/sundong/Exploring/localplanning/ros_navigation_stack_vrep_simulation/devel/.private/navfn/share/navfn/cmake/navfn-msg-extras.cmake

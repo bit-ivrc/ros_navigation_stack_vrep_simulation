@@ -1,0 +1,1 @@
+/home/sundong/Exploring/localplanning/ros_navigation_stack_vrep_simulation/devel/.private/global_planner/lib/python2.7/dist-packages/global_planner/cfg/GlobalPlannerConfig.py

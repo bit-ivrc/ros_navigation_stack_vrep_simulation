@@ -1,0 +1,4 @@
+Symlinking /home/sundong/Exploring/localplanning/ros_navigation_stack_vrep_simulation/devel/share/clear_costmap_recovery/cmake/clear_costmap_recoveryConfig.cmake
+Symlinking /home/sundong/Exploring/localplanning/ros_navigation_stack_vrep_simulation/devel/share/clear_costmap_recovery/cmake/clear_costmap_recoveryConfig-version.cmake
+Symlinking /home/sundong/Exploring/localplanning/ros_navigation_stack_vrep_simulation/devel/lib/libclear_costmap_recovery.so
+Symlinking /home/sundong/Exploring/localplanning/ros_navigation_stack_vrep_simulation/devel/lib/pkgconfig/clear_costmap_recovery.pc

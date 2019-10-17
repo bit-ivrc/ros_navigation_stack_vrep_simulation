@@ -1,0 +1,257 @@
+[35m[1mScanning dependencies of target tf2_msgs_generate_messages_cpp[0m
+[  0%] Built target tf2_msgs_generate_messages_cpp
+[35m[1mScanning dependencies of target std_msgs_generate_messages_cpp[0m
+[  0%] Built target std_msgs_generate_messages_cpp
+[35m[1mScanning dependencies of target _base_local_planner_generate_messages_check_deps_Position2DInt[0m
+[  0%] Built target _base_local_planner_generate_messages_check_deps_Position2DInt
+[35m[1mScanning dependencies of target base_local_planner_gencfg[0m
+[  3%] [34m[1mGenerating dynamic reconfigure files from cfg/BaseLocalPlanner.cfg: /home/sundong/Exploring/localplanning/ros_navigation_stack_vrep_simulation/devel/.private/base_local_planner/include/base_local_planner/BaseLocalPlannerConfig.h /home/sundong/Exploring/localplanning/ros_navigation_stack_vrep_simulation/devel/.private/base_local_planner/lib/python2.7/dist-packages/base_local_planner/cfg/BaseLocalPlannerConfig.py[0m
+Generating reconfiguration files for BaseLocalPlanner in base_local_planner
+Wrote header file in /home/sundong/Exploring/localplanning/ros_navigation_stack_vrep_simulation/devel/.private/base_local_planner/include/base_local_planner/BaseLocalPlannerConfig.h
+[  3%] Built target base_local_planner_gencfg
+[35m[1mScanning dependencies of target nav_msgs_generate_messages_cpp[0m
+[  3%] Built target nav_msgs_generate_messages_cpp
+[35m[1mScanning dependencies of target std_msgs_generate_messages_py[0m
+[  3%] Built target std_msgs_generate_messages_py
+[35m[1mScanning dependencies of target std_msgs_generate_messages_lisp[0m
+[  3%] Built target std_msgs_generate_messages_lisp
+[35m[1mScanning dependencies of target std_msgs_generate_messages_eus[0m
+[  3%] Built target std_msgs_generate_messages_eus
+[35m[1mScanning dependencies of target visualization_msgs_generate_messages_py[0m
+[  3%] Built target visualization_msgs_generate_messages_py
+[35m[1mScanning dependencies of target visualization_msgs_generate_messages_nodejs[0m
+[  3%] Built target visualization_msgs_generate_messages_nodejs
+[35m[1mScanning dependencies of target visualization_msgs_generate_messages_lisp[0m
+[  3%] Built target visualization_msgs_generate_messages_lisp
+[35m[1mScanning dependencies of target visualization_msgs_generate_messages_cpp[0m
+[  3%] Built target visualization_msgs_generate_messages_cpp
+[35m[1mScanning dependencies of target tf2_msgs_generate_messages_py[0m
+[  3%] Built target tf2_msgs_generate_messages_py
+[35m[1mScanning dependencies of target tf2_msgs_generate_messages_nodejs[0m
+[  3%] Built target tf2_msgs_generate_messages_nodejs
+[35m[1mScanning dependencies of target actionlib_msgs_generate_messages_nodejs[0m
+[  3%] Built target actionlib_msgs_generate_messages_nodejs
+[35m[1mScanning dependencies of target topic_tools_generate_messages_py[0m
+[  3%] Built target topic_tools_generate_messages_py
+[35m[1mScanning dependencies of target actionlib_msgs_generate_messages_lisp[0m
+[  3%] Built target actionlib_msgs_generate_messages_lisp
+[35m[1mScanning dependencies of target nav_msgs_generate_messages_nodejs[0m
+[  3%] Built target nav_msgs_generate_messages_nodejs
+[35m[1mScanning dependencies of target actionlib_msgs_generate_messages_cpp[0m
+[  3%] Built target actionlib_msgs_generate_messages_cpp
+[35m[1mScanning dependencies of target sensor_msgs_generate_messages_eus[0m
+[  3%] Built target sensor_msgs_generate_messages_eus
+[35m[1mScanning dependencies of target actionlib_generate_messages_nodejs[0m
+[  3%] Built target actionlib_generate_messages_nodejs
+[35m[1mScanning dependencies of target tf2_msgs_generate_messages_lisp[0m
+[  3%] Built target tf2_msgs_generate_messages_lisp
+[35m[1mScanning dependencies of target sensor_msgs_generate_messages_cpp[0m
+[  3%] Built target sensor_msgs_generate_messages_cpp
+[35m[1mScanning dependencies of target map_msgs_generate_messages_py[0m
+[  3%] Built target map_msgs_generate_messages_py
+[35m[1mScanning dependencies of target nodelet_generate_messages_cpp[0m
+[  3%] Built target nodelet_generate_messages_cpp
+[35m[1mScanning dependencies of target map_msgs_generate_messages_nodejs[0m
+[  3%] Built target map_msgs_generate_messages_nodejs
+[35m[1mScanning dependencies of target map_msgs_generate_messages_lisp[0m
+[  3%] Built target map_msgs_generate_messages_lisp
+[35m[1mScanning dependencies of target tf_generate_messages_py[0m
+[  3%] Built target tf_generate_messages_py
+[35m[1mScanning dependencies of target map_msgs_generate_messages_eus[0m
+[  3%] Built target map_msgs_generate_messages_eus
+[35m[1mScanning dependencies of target map_msgs_generate_messages_cpp[0m
+[  3%] Built target map_msgs_generate_messages_cpp
+[35m[1mScanning dependencies of target dynamic_reconfigure_generate_messages_nodejs[0m
+[  3%] Built target dynamic_reconfigure_generate_messages_nodejs
+[35m[1mScanning dependencies of target _catkin_empty_exported_target[0m
+[  3%] Built target _catkin_empty_exported_target
+[35m[1mScanning dependencies of target std_msgs_generate_messages_nodejs[0m
+[  3%] Built target std_msgs_generate_messages_nodejs
+[35m[1mScanning dependencies of target geometry_msgs_generate_messages_cpp[0m
+[  3%] Built target geometry_msgs_generate_messages_cpp
+[35m[1mScanning dependencies of target costmap_2d_generate_messages_nodejs[0m
+[  3%] Built target costmap_2d_generate_messages_nodejs
+[35m[1mScanning dependencies of target nav_msgs_generate_messages_lisp[0m
+[  3%] Built target nav_msgs_generate_messages_lisp
+[35m[1mScanning dependencies of target sensor_msgs_generate_messages_lisp[0m
+[  3%] Built target sensor_msgs_generate_messages_lisp
+[35m[1mScanning dependencies of target costmap_2d_generate_messages_cpp[0m
+[  3%] Built target costmap_2d_generate_messages_cpp
+[35m[1mScanning dependencies of target topic_tools_generate_messages_nodejs[0m
+[  3%] Built target topic_tools_generate_messages_nodejs
+[35m[1mScanning dependencies of target nav_msgs_generate_messages_py[0m
+[  3%] Built target nav_msgs_generate_messages_py
+[35m[1mScanning dependencies of target pcl_msgs_generate_messages_nodejs[0m
+[  3%] Built target pcl_msgs_generate_messages_nodejs
+[35m[1mScanning dependencies of target std_srvs_generate_messages_nodejs[0m
+[  3%] Built target std_srvs_generate_messages_nodejs
+[35m[1mScanning dependencies of target dynamic_reconfigure_generate_messages_lisp[0m
+[  3%] Built target dynamic_reconfigure_generate_messages_lisp
+[35m[1mScanning dependencies of target geometry_msgs_generate_messages_py[0m
+[  3%] Built target geometry_msgs_generate_messages_py
+[35m[1mScanning dependencies of target geometry_msgs_generate_messages_lisp[0m
+[  3%] Built target geometry_msgs_generate_messages_lisp
+[35m[1mScanning dependencies of target bond_generate_messages_py[0m
+[  3%] Built target bond_generate_messages_py
+[35m[1mScanning dependencies of target std_srvs_generate_messages_lisp[0m
+[  3%] Built target std_srvs_generate_messages_lisp
+[35m[1mScanning dependencies of target actionlib_msgs_generate_messages_eus[0m
+[  3%] Built target actionlib_msgs_generate_messages_eus
+[35m[1mScanning dependencies of target actionlib_generate_messages_lisp[0m
+[  3%] Built target actionlib_generate_messages_lisp
+[35m[1mScanning dependencies of target std_srvs_generate_messages_eus[0m
+[  3%] Built target std_srvs_generate_messages_eus
+[35m[1mScanning dependencies of target tf_generate_messages_cpp[0m
+[  3%] Built target tf_generate_messages_cpp
+[35m[1mScanning dependencies of target geometry_msgs_generate_messages_eus[0m
+[  3%] Built target geometry_msgs_generate_messages_eus
+[35m[1mScanning dependencies of target geometry_msgs_generate_messages_nodejs[0m
+[  3%] Built target geometry_msgs_generate_messages_nodejs
+[35m[1mScanning dependencies of target dynamic_reconfigure_generate_messages_cpp[0m
+[  3%] Built target dynamic_reconfigure_generate_messages_cpp
+[35m[1mScanning dependencies of target sensor_msgs_generate_messages_nodejs[0m
+[  3%] Built target sensor_msgs_generate_messages_nodejs
+[35m[1mScanning dependencies of target costmap_2d_generate_messages_lisp[0m
+[  3%] Built target costmap_2d_generate_messages_lisp
+[35m[1mScanning dependencies of target costmap_2d_generate_messages_py[0m
+[  3%] Built target costmap_2d_generate_messages_py
+[35m[1mScanning dependencies of target dynamic_reconfigure_gencfg[0m
+[  3%] Built target dynamic_reconfigure_gencfg
+[35m[1mScanning dependencies of target costmap_2d_gencfg[0m
+[  3%] Built target costmap_2d_gencfg
+[35m[1mScanning dependencies of target rosgraph_msgs_generate_messages_lisp[0m
+[  3%] Built target rosgraph_msgs_generate_messages_lisp
+[35m[1mScanning dependencies of target tf2_msgs_generate_messages_eus[0m
+[  3%] Built target tf2_msgs_generate_messages_eus
+[35m[1mScanning dependencies of target pcl_ros_gencfg[0m
+[  3%] Built target pcl_ros_gencfg
+[35m[1mScanning dependencies of target nav_msgs_generate_messages_eus[0m
+[  3%] Built target nav_msgs_generate_messages_eus
+[35m[1mScanning dependencies of target actionlib_msgs_generate_messages_py[0m
+[  3%] Built target actionlib_msgs_generate_messages_py
+[35m[1mScanning dependencies of target roscpp_generate_messages_cpp[0m
+[  3%] Built target roscpp_generate_messages_cpp
+[35m[1mScanning dependencies of target nodelet_generate_messages_py[0m
+[  3%] Built target nodelet_generate_messages_py
+[35m[1mScanning dependencies of target roscpp_generate_messages_eus[0m
+[  3%] Built target roscpp_generate_messages_eus
+[35m[1mScanning dependencies of target bond_generate_messages_eus[0m
+[  3%] Built target bond_generate_messages_eus
+[35m[1mScanning dependencies of target roscpp_generate_messages_lisp[0m
+[  3%] Built target roscpp_generate_messages_lisp
+[35m[1mScanning dependencies of target sensor_msgs_generate_messages_py[0m
+[  3%] Built target sensor_msgs_generate_messages_py
+[35m[1mScanning dependencies of target roscpp_generate_messages_nodejs[0m
+[  3%] Built target roscpp_generate_messages_nodejs
+[35m[1mScanning dependencies of target roscpp_generate_messages_py[0m
+[  3%] Built target roscpp_generate_messages_py
+[35m[1mScanning dependencies of target std_srvs_generate_messages_py[0m
+[  3%] Built target std_srvs_generate_messages_py
+[35m[1mScanning dependencies of target tf_generate_messages_nodejs[0m
+[  3%] Built target tf_generate_messages_nodejs
+[35m[1mScanning dependencies of target rosgraph_msgs_generate_messages_cpp[0m
+[  3%] Built target rosgraph_msgs_generate_messages_cpp
+[35m[1mScanning dependencies of target pcl_msgs_generate_messages_eus[0m
+[  3%] Built target pcl_msgs_generate_messages_eus
+[35m[1mScanning dependencies of target rosgraph_msgs_generate_messages_eus[0m
+[  3%] Built target rosgraph_msgs_generate_messages_eus
+[35m[1mScanning dependencies of target rosgraph_msgs_generate_messages_nodejs[0m
+[  3%] Built target rosgraph_msgs_generate_messages_nodejs
+[35m[1mScanning dependencies of target actionlib_generate_messages_cpp[0m
+[  3%] Built target actionlib_generate_messages_cpp
+[35m[1mScanning dependencies of target costmap_2d_generate_messages_eus[0m
+[  3%] Built target costmap_2d_generate_messages_eus
+[35m[1mScanning dependencies of target rosgraph_msgs_generate_messages_py[0m
+[  3%] Built target rosgraph_msgs_generate_messages_py
+[35m[1mScanning dependencies of target tf_generate_messages_lisp[0m
+[  3%] Built target tf_generate_messages_lisp
+[35m[1mScanning dependencies of target nodelet_generate_messages_lisp[0m
+[  3%] Built target nodelet_generate_messages_lisp
+[35m[1mScanning dependencies of target nodelet_generate_messages_nodejs[0m
+[  3%] Built target nodelet_generate_messages_nodejs
+[35m[1mScanning dependencies of target base_local_planner_generate_messages_nodejs[0m
+[  6%] [34m[1mGenerating Javascript code from base_local_planner/Position2DInt.msg[0m
+[  6%] Built target base_local_planner_generate_messages_nodejs
+[35m[1mScanning dependencies of target bond_generate_messages_cpp[0m
+[  6%] Built target bond_generate_messages_cpp
+[35m[1mScanning dependencies of target bond_generate_messages_lisp[0m
+[  6%] Built target bond_generate_messages_lisp
+[35m[1mScanning dependencies of target nodelet_generate_messages_eus[0m
+[  6%] Built target nodelet_generate_messages_eus
+[35m[1mScanning dependencies of target topic_tools_generate_messages_cpp[0m
+[  6%] Built target topic_tools_generate_messages_cpp
+[35m[1mScanning dependencies of target topic_tools_generate_messages_eus[0m
+[  6%] Built target topic_tools_generate_messages_eus
+[35m[1mScanning dependencies of target nodelet_topic_tools_gencfg[0m
+[  6%] Built target nodelet_topic_tools_gencfg
+[35m[1mScanning dependencies of target std_srvs_generate_messages_cpp[0m
+[  6%] Built target std_srvs_generate_messages_cpp
+[35m[1mScanning dependencies of target pcl_msgs_generate_messages_cpp[0m
+[  6%] Built target pcl_msgs_generate_messages_cpp
+[35m[1mScanning dependencies of target pcl_msgs_generate_messages_lisp[0m
+[  6%] Built target pcl_msgs_generate_messages_lisp
+[35m[1mScanning dependencies of target visualization_msgs_generate_messages_eus[0m
+[  6%] Built target visualization_msgs_generate_messages_eus
+[35m[1mScanning dependencies of target dynamic_reconfigure_generate_messages_eus[0m
+[  6%] Built target dynamic_reconfigure_generate_messages_eus
+[35m[1mScanning dependencies of target bond_generate_messages_nodejs[0m
+[  6%] Built target bond_generate_messages_nodejs
+[35m[1mScanning dependencies of target pcl_msgs_generate_messages_py[0m
+[  6%] Built target pcl_msgs_generate_messages_py
+[35m[1mScanning dependencies of target topic_tools_generate_messages_lisp[0m
+[  6%] Built target topic_tools_generate_messages_lisp
+[35m[1mScanning dependencies of target tf_generate_messages_eus[0m
+[  6%] Built target tf_generate_messages_eus
+[35m[1mScanning dependencies of target actionlib_generate_messages_eus[0m
+[  6%] Built target actionlib_generate_messages_eus
+[35m[1mScanning dependencies of target dynamic_reconfigure_generate_messages_py[0m
+[  6%] Built target dynamic_reconfigure_generate_messages_py
+[35m[1mScanning dependencies of target actionlib_generate_messages_py[0m
+[  6%] Built target actionlib_generate_messages_py
+[35m[1mScanning dependencies of target base_local_planner_generate_messages_cpp[0m
+[  9%] [34m[1mGenerating C++ code from base_local_planner/Position2DInt.msg[0m
+[  9%] Built target base_local_planner_generate_messages_cpp
+[35m[1mScanning dependencies of target base_local_planner_generate_messages_py[0m
+[ 12%] [34m[1mGenerating Python from MSG base_local_planner/Position2DInt[0m
+[ 15%] [34m[1mGenerating Python msg __init__.py for base_local_planner[0m
+[ 15%] Built target base_local_planner_generate_messages_py
+[35m[1mScanning dependencies of target base_local_planner_generate_messages_lisp[0m
+[ 18%] [34m[1mGenerating Lisp code from base_local_planner/Position2DInt.msg[0m
+[ 18%] Built target base_local_planner_generate_messages_lisp
+[35m[1mScanning dependencies of target base_local_planner_generate_messages_eus[0m
+[ 21%] [34m[1mGenerating EusLisp code from base_local_planner/Position2DInt.msg[0m
+[ 24%] [34m[1mGenerating EusLisp manifest code for base_local_planner[0m
+[ 24%] Built target base_local_planner_generate_messages_eus
+[35m[1mScanning dependencies of target base_local_planner[0m
+[ 27%] [32mBuilding CXX object CMakeFiles/base_local_planner.dir/src/footprint_helper.cpp.o[0m
+[ 30%] [32mBuilding CXX object CMakeFiles/base_local_planner.dir/src/goal_functions.cpp.o[0m
+[ 33%] [32mBuilding CXX object CMakeFiles/base_local_planner.dir/src/map_cell.cpp.o[0m
+[ 36%] [32mBuilding CXX object CMakeFiles/base_local_planner.dir/src/map_grid.cpp.o[0m
+[ 39%] [32mBuilding CXX object CMakeFiles/base_local_planner.dir/src/map_grid_visualizer.cpp.o[0m
+[ 42%] [32mBuilding CXX object CMakeFiles/base_local_planner.dir/src/map_grid_cost_function.cpp.o[0m
+[ 45%] [32mBuilding CXX object CMakeFiles/base_local_planner.dir/src/latched_stop_rotate_controller.cpp.o[0m
+[ 48%] [32mBuilding CXX object CMakeFiles/base_local_planner.dir/src/local_planner_util.cpp.o[0m
+[ 51%] [32mBuilding CXX object CMakeFiles/base_local_planner.dir/src/odometry_helper_ros.cpp.o[0m
+[ 54%] [32mBuilding CXX object CMakeFiles/base_local_planner.dir/src/obstacle_cost_function.cpp.o[0m
+[ 57%] [32mBuilding CXX object CMakeFiles/base_local_planner.dir/src/oscillation_cost_function.cpp.o[0m
+[ 60%] [32mBuilding CXX object CMakeFiles/base_local_planner.dir/src/prefer_forward_cost_function.cpp.o[0m
+[ 63%] [32mBuilding CXX object CMakeFiles/base_local_planner.dir/src/point_grid.cpp.o[0m
+[ 66%] [32mBuilding CXX object CMakeFiles/base_local_planner.dir/src/costmap_model.cpp.o[0m
+[ 69%] [32mBuilding CXX object CMakeFiles/base_local_planner.dir/src/simple_scored_sampling_planner.cpp.o[0m
+[ 72%] [32mBuilding CXX object CMakeFiles/base_local_planner.dir/src/simple_trajectory_generator.cpp.o[0m
+[ 75%] [32mBuilding CXX object CMakeFiles/base_local_planner.dir/src/trajectory.cpp.o[0m
+[ 78%] [32mBuilding CXX object CMakeFiles/base_local_planner.dir/src/twirling_cost_function.cpp.o[0m
+[ 81%] [32mBuilding CXX object CMakeFiles/base_local_planner.dir/src/voxel_grid_model.cpp.o[0m
+[35m[1mScanning dependencies of target base_local_planner_generate_messages[0m
+[ 81%] Built target base_local_planner_generate_messages
+[35m[1mScanning dependencies of target point_grid[0m
+[ 84%] [32mBuilding CXX object CMakeFiles/point_grid.dir/src/point_grid.cpp.o[0m
+[ 87%] [32m[1mLinking CXX shared library /home/sundong/Exploring/localplanning/ros_navigation_stack_vrep_simulation/devel/.private/base_local_planner/lib/libbase_local_planner.so[0m
+[ 90%] [32m[1mLinking CXX executable /home/sundong/Exploring/localplanning/ros_navigation_stack_vrep_simulation/devel/.private/base_local_planner/lib/base_local_planner/point_grid[0m
+[ 90%] Built target point_grid
+[ 90%] Built target base_local_planner
+[35m[1mScanning dependencies of target trajectory_planner_ros[0m
+[ 93%] [32mBuilding CXX object CMakeFiles/trajectory_planner_ros.dir/src/trajectory_planner.cpp.o[0m
+[ 96%] [32mBuilding CXX object CMakeFiles/trajectory_planner_ros.dir/src/trajectory_planner_ros.cpp.o[0m
+[100%] [32m[1mLinking CXX shared library /home/sundong/Exploring/localplanning/ros_navigation_stack_vrep_simulation/devel/.private/base_local_planner/lib/libtrajectory_planner_ros.so[0m
+[100%] Built target trajectory_planner_ros

@@ -1,0 +1,8 @@
+prefix=/home/sundong/Exploring/localplanning/ros_navigation_stack_vrep_simulation/devel/.private/navfn
+
+Name: navfn
+Description: Description of navfn
+Version: 1.14.4
+Cflags: -I/home/sundong/Exploring/localplanning/ros_navigation_stack_vrep_simulation/devel/.private/navfn/include -I/home/sundong/Exploring/localplanning/ros_navigation_stack_vrep_simulation/src/Navigation/navfn/include
+Libs: -L/home/sundong/Exploring/localplanning/ros_navigation_stack_vrep_simulation/devel/.private/navfn/lib -lnavfn
+Requires: geometry_msgs message_runtime nav_core nav_msgs pluginlib roscpp visualization_msgs

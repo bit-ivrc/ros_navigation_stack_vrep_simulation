@@ -1,0 +1,8 @@
+prefix=/home/sundong/Exploring/localplanning/ros_navigation_stack_vrep_simulation/install
+
+Name: robot_pose_ekf
+Description: Description of robot_pose_ekf
+Version: 1.14.4
+Cflags: -I/home/sundong/Exploring/localplanning/ros_navigation_stack_vrep_simulation/install/include
+Libs: -L/home/sundong/Exploring/localplanning/ros_navigation_stack_vrep_simulation/install/lib 
+Requires: geometry_msgs message_runtime nav_msgs roscpp sensor_msgs std_msgs

@@ -1,0 +1,8 @@
+prefix=/home/sundong/Exploring/localplanning/ros_navigation_stack_vrep_simulation/devel/.private/rotate_recovery
+
+Name: rotate_recovery
+Description: Description of rotate_recovery
+Version: 1.14.4
+Cflags: -I/home/sundong/Exploring/localplanning/ros_navigation_stack_vrep_simulation/src/Navigation/rotate_recovery/include
+Libs: -L/home/sundong/Exploring/localplanning/ros_navigation_stack_vrep_simulation/devel/.private/rotate_recovery/lib -lrotate_recovery
+Requires: roscpp pluginlib

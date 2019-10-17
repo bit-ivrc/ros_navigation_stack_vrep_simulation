@@ -1,0 +1,4 @@
+** WARNING ** io features related to openni2 will be disabled
+** WARNING ** io features related to pcap will be disabled
+** WARNING ** io features related to png will be disabled
+** WARNING ** visualization features related to openni2 will be disabled

@@ -1,0 +1,4 @@
+[35m[1mScanning dependencies of target msg_transform_node[0m
+[ 50%] [32mBuilding CXX object CMakeFiles/msg_transform_node.dir/src/main.cpp.o[0m
+[100%] [32m[1mLinking CXX executable /home/sundong/Exploring/localplanning/ros_navigation_stack_vrep_simulation/devel/.private/msg_transform/lib/msg_transform/msg_transform_node[0m
+[100%] Built target msg_transform_node

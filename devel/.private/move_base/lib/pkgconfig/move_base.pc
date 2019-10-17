@@ -1,0 +1,8 @@
+prefix=/home/sundong/Exploring/localplanning/ros_navigation_stack_vrep_simulation/devel/.private/move_base
+
+Name: move_base
+Description: Description of move_base
+Version: 1.14.4
+Cflags: -I/home/sundong/Exploring/localplanning/ros_navigation_stack_vrep_simulation/devel/.private/move_base/include
+Libs: -L/home/sundong/Exploring/localplanning/ros_navigation_stack_vrep_simulation/devel/.private/move_base/lib 
+Requires: dynamic_reconfigure geometry_msgs move_base_msgs nav_msgs roscpp

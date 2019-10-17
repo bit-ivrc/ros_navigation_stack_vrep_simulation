@@ -1,0 +1,11 @@
+obstacle_range: 20.0
+raytrace_range: 20.0
+footprint: [[1.2, 0.60], [-1.2, 0.60], [-1.2, -0.60], [1.2, -0.60]]
+#robot_radius: 2
+inflation_radius: 3
+
+observation_sources: point_cloud_sensor
+
+#laser_scan_sensor: {sensor_frame: frame_name, data_type: LaserScan, topic: topic_name, marking: true, clearing: true}
+
+point_cloud_sensor: {sensor_frame: base_laser, data_type: PointCloud, topic: /pcl_conversion/point_cloud_topic, marking: true, clearing: true}
