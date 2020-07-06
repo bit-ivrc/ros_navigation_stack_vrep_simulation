@@ -1,18 +1,47 @@
 # ros_navigation_vrep_simulation
 **For mooc**  
 ros navigation simulation using vrep.  
-## steps:  
-1. install library
-# insatll vrep
-# open terminal
 
+```
+git clone https://github.com/Dysonsun/ros_navigation_stack_vrep_simulation_manta.git && cd ros_navigation_stack_vrep_simulation_manta && git submodule -q update --init --recursive
+```
 
-Run roscore and vrep;  
-2. Open vrep scene and run simulation;  
-3. Go to src/Navigation/move_base/ and run:  
-~~~
+## install library
+
+**If you not install ROS, just run**
+```
+./scripts/install_ros.sh
+```
+This script will install ros.
+
+**If you have already installed ros**,  
+```
+./scripts/install_ros.sh
+```
+This script will install vrep.
+
+Build the `vrep_ros_interface` at the end.
+```
+./scripts/install_vrep_ros_interface.sh
+```
+```
+sudo apt-get install ros-kinetic-bfl
+sudo apt-get install ros-kinetic-move-base
+sudo apt-get install libbullet-dev libsdl1.2-dev libsdl-image1.2-dev
+```
+##  compile package
+```
+catkin build
+```
+
+## start sumulation
+
+1. run roscore in the termimal.
+2. open vrep by running `vrep` command in the terminal(**Note**: You have to run roscore before launching vrep).
+3. load the scene file `navigation_manta.ttt` under `scenes`.
+4.
+```
+cd src/Navigation/move_base
 roslaunch move_base move_base.launch
-~~~
-4. Open rviz and open config file: src/Navigation/move_base/cfg/rviz_config.rviz.  
-5. Set goal point.
-# ros_navigation_stack_vrep_simulation_manta
+```
+5. run simulation.
