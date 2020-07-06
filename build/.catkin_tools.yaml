@@ -1,6 +1,0 @@
-devel_space: /home/sundong/Exploring/localplanning/ros_navigation_stack_vrep_simulation/devel
-install: false
-install_space: /home/sundong/Exploring/localplanning/ros_navigation_stack_vrep_simulation/install
-profile: default
-source_space: /home/sundong/Exploring/localplanning/ros_navigation_stack_vrep_simulation/src
-workspace: /home/sundong/Exploring/localplanning/ros_navigation_stack_vrep_simulation

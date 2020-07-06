@@ -1,8 +1,0 @@
-prefix=/home/sundong/Exploring/localplanning/ros_navigation_stack_vrep_simulation/install
-
-Name: move_slow_and_clear
-Description: Description of move_slow_and_clear
-Version: 1.14.4
-Cflags: -I/home/sundong/Exploring/localplanning/ros_navigation_stack_vrep_simulation/install/include
-Libs: -L/home/sundong/Exploring/localplanning/ros_navigation_stack_vrep_simulation/install/lib -lmove_slow_and_clear
-Requires: geometry_msgs nav_core pluginlib roscpp

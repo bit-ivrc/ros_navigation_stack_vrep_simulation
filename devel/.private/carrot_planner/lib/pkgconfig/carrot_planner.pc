@@ -1,8 +1,0 @@
-prefix=/home/sundong/Exploring/localplanning/ros_navigation_stack_vrep_simulation/devel/.private/carrot_planner
-
-Name: carrot_planner
-Description: Description of carrot_planner
-Version: 1.14.4
-Cflags: -I/home/sundong/Exploring/localplanning/ros_navigation_stack_vrep_simulation/src/Navigation/carrot_planner/include
-Libs: -L/home/sundong/Exploring/localplanning/ros_navigation_stack_vrep_simulation/devel/.private/carrot_planner/lib -lcarrot_planner
-Requires: roscpp pluginlib costmap_2d base_local_planner nav_core

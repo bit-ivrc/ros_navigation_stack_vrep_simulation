@@ -2,7 +2,12 @@
 **For mooc**  
 ros navigation simulation using vrep.  
 ## steps:  
-1. Run roscore and vrep;  
+1. install library
+# insatll vrep
+# open terminal
+
+
+Run roscore and vrep;  
 2. Open vrep scene and run simulation;  
 3. Go to src/Navigation/move_base/ and run:  
 ~~~

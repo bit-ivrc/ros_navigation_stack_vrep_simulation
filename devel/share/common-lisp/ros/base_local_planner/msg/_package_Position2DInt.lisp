@@ -1,1 +1,0 @@
-/home/sundong/Exploring/localplanning/ros_navigation_stack_vrep_simulation/devel/.private/base_local_planner/share/common-lisp/ros/base_local_planner/msg/_package_Position2DInt.lisp
