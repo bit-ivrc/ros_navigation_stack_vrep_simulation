@@ -42,6 +42,9 @@ catkin build
 4.
 ```
 cd src/Navigation/move_base
+source devel/setup.bash
 roslaunch move_base move_base.launch
 ```
-5. run simulation.
+5. run simulation at vrep.
+6. set goal point.
+
