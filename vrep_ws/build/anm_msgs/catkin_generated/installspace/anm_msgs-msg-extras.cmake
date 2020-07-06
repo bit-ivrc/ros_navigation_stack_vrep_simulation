@@ -1,0 +1,2 @@
+set(anm_msgs_MESSAGE_FILES "msg/CommandCheckingReport.msg;msg/DynamicObstacle.msg;msg/DynamicObstacleList.msg;msg/HMIReport.msg;msg/NearestAnmWaypoint.msg;msg/PathState.msg;msg/ShuttleRequest.msg;msg/SpiralPath.msg;msg/SystemState.msg;msg/V2XStopSign.msg;msg/V2XStopSignList.msg;msg/V2XTrafficLight.msg;msg/V2XTrafficLightList.msg;msg/V2XVehicle.msg;msg/V2XVehicleList.msg;msg/VehicleState.msg")
+set(anm_msgs_SERVICE_FILES "")

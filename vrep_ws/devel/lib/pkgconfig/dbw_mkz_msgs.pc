@@ -1,0 +1,8 @@
+prefix=/home/sundong/Exploring/localplanning/ros_navigation_stack_vrep_simulation/vrep_ws/devel
+
+Name: dbw_mkz_msgs
+Description: Description of dbw_mkz_msgs
+Version: 1.0.4
+Cflags: -I/home/sundong/Exploring/localplanning/ros_navigation_stack_vrep_simulation/vrep_ws/devel/include
+Libs: -L${prefix}/lib 
+Requires: message_runtime std_msgs geometry_msgs

@@ -1,0 +1,8 @@
+prefix=/home/sundong/Exploring/localplanning/ros_navigation_stack_vrep_simulation/vrep_ws/devel
+
+Name: vrep_ros_interface
+Description: Description of vrep_ros_interface
+Version: 3.3.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: roscpp image_transport tf cv_bridge

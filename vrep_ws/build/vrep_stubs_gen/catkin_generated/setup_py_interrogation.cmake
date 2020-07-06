@@ -1,0 +1,6 @@
+set(vrep_stubs_gen_SETUP_PY_VERSION "1.0.0")
+set(vrep_stubs_gen_SETUP_PY_SCRIPTS "")
+set(vrep_stubs_gen_SETUP_PY_PACKAGES "v_repStubsGen")
+set(vrep_stubs_gen_SETUP_PY_PACKAGE_DIRS "src/v_repStubsGen")
+set(vrep_stubs_gen_SETUP_PY_MODULES "")
+set(vrep_stubs_gen_SETUP_PY_MODULE_DIRS "")

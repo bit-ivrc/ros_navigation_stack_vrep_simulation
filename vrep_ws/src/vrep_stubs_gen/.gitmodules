@@ -1,0 +1,3 @@
+[submodule "src/v_repStubsGen"]
+	path = src/v_repStubsGen
+	url = https://github.com/fferri/v_repStubsGen.git

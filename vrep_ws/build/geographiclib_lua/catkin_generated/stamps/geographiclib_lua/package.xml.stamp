@@ -1,0 +1,13 @@
+<package>
+  <name>geographiclib_lua</name>
+  <description>Catkin package for GeographicLib-lua </description>
+  <maintainer email="lkoppel@uwaterloo.ca">Leo</maintainer>
+  <version>1.0.0</version>
+  <author>Yida Zhang</author>
+  <license>MIT</license>
+  <url>https://github.com/yida/GeographicLib-lua</url>
+  <buildtool_depend>catkin</buildtool_depend>
+  <build_depend>GeographicLib</build_depend>
+</package>
+
+

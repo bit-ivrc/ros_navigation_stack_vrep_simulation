@@ -1,0 +1,8 @@
+prefix=/home/sundong/Exploring/localplanning/ros_navigation_stack_vrep_simulation/vrep_ws/devel
+
+Name: anm_msgs
+Description: Description of anm_msgs
+Version: 0.0.0
+Cflags: -I/home/sundong/Exploring/localplanning/ros_navigation_stack_vrep_simulation/vrep_ws/devel/include
+Libs: -L${prefix}/lib 
+Requires: message_generation roscpp std_msgs geometry_msgs

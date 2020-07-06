@@ -1,0 +1,23 @@
+<?xml version="1.0"?>
+<package format="2">
+    <name>anm_msgs</name>
+    <version>0.0.0</version>
+    <description>
+        Package containing all custom messages for the autonomoose project
+    </description>
+
+    <maintainer email="icolwell@gsd.uwaterloo.ca">icolwell</maintainer>
+    <author email="icolwell@gsd.uwaterloo.ca">Ian Colwell</author>
+    <url type="website">https://github.com/wavelab/autonomoose</url>
+
+    <license>TODO</license>
+
+    <depend>roscpp</depend>
+    <depend>message_generation</depend>
+    <depend>std_msgs</depend>
+    <depend>geometry_msgs</depend>
+    <depend>dbw_mkz_msgs</depend>
+
+    <buildtool_depend>catkin</buildtool_depend>
+    <exec_depend>message_runtime</exec_depend>
+</package>
