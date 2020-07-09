@@ -46,3 +46,14 @@ roslaunch move_base move_base.launch
 5. run simulation at vrep.
 6. set goal point.
 
+##configuration
+ros_navigation_stack_vrep_simulation/src/Navigation/move_base/cfg/base_local_planner_params.yaml
+  speed range: max_vel_x  min_vel_x
+  limit of angular acceleration: acc_lim_theta
+  limit of longitudinal acceleration: acc_lim_x
+  limit of lateral acceleration: acc_lim_y 
+  sample time: sim_time: 4.0
+
+Related stacks 
+https://github.com/ros-planning/navigation.git
+
