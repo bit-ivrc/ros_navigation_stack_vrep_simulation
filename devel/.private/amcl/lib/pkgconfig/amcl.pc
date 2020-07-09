@@ -1,0 +1,8 @@
+prefix=/home/sundong/Exploring/localplanning/ros_navigation_stack_vrep_simulation/devel/.private/amcl
+
+Name: amcl
+Description: Description of amcl
+Version: 1.14.4
+Cflags: -I/home/sundong/Exploring/localplanning/ros_navigation_stack_vrep_simulation/devel/.private/amcl/include -I/home/sundong/Exploring/localplanning/ros_navigation_stack_vrep_simulation/src/Navigation/amcl/include
+Libs: -L${prefix}/lib -lamcl_sensors -lamcl_map -lamcl_pf
+Requires: rosbag roscpp dynamic_reconfigure tf nav_msgs std_srvs

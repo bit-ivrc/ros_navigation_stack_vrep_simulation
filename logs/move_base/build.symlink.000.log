@@ -1,0 +1,12 @@
+Symlinking /home/sundong/Exploring/localplanning/ros_navigation_stack_vrep_simulation/devel/share/move_base/docs/MoveBaseConfig-usage.dox
+Symlinking /home/sundong/Exploring/localplanning/ros_navigation_stack_vrep_simulation/devel/share/move_base/docs/MoveBaseConfig.wikidoc
+Symlinking /home/sundong/Exploring/localplanning/ros_navigation_stack_vrep_simulation/devel/share/move_base/docs/MoveBaseConfig.dox
+Symlinking /home/sundong/Exploring/localplanning/ros_navigation_stack_vrep_simulation/devel/share/move_base/cmake/move_baseConfig-version.cmake
+Symlinking /home/sundong/Exploring/localplanning/ros_navigation_stack_vrep_simulation/devel/share/move_base/cmake/move_baseConfig.cmake
+Symlinking /home/sundong/Exploring/localplanning/ros_navigation_stack_vrep_simulation/devel/include/move_base/MoveBaseConfig.h
+Symlinking /home/sundong/Exploring/localplanning/ros_navigation_stack_vrep_simulation/devel/lib/libmove_base.so
+Symlinking /home/sundong/Exploring/localplanning/ros_navigation_stack_vrep_simulation/devel/lib/move_base/move_base
+Symlinking /home/sundong/Exploring/localplanning/ros_navigation_stack_vrep_simulation/devel/lib/python2.7/dist-packages/move_base/__init__.py
+Symlinking /home/sundong/Exploring/localplanning/ros_navigation_stack_vrep_simulation/devel/lib/python2.7/dist-packages/move_base/cfg/__init__.py
+Symlinking /home/sundong/Exploring/localplanning/ros_navigation_stack_vrep_simulation/devel/lib/python2.7/dist-packages/move_base/cfg/MoveBaseConfig.py
+Symlinking /home/sundong/Exploring/localplanning/ros_navigation_stack_vrep_simulation/devel/lib/pkgconfig/move_base.pc

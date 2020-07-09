@@ -1,0 +1,14 @@
+Symlinking /home/sundong/Exploring/localplanning/ros_navigation_stack_vrep_simulation/devel/share/amcl/docs/AMCLConfig.dox
+Symlinking /home/sundong/Exploring/localplanning/ros_navigation_stack_vrep_simulation/devel/share/amcl/docs/AMCLConfig-usage.dox
+Symlinking /home/sundong/Exploring/localplanning/ros_navigation_stack_vrep_simulation/devel/share/amcl/docs/AMCLConfig.wikidoc
+Symlinking /home/sundong/Exploring/localplanning/ros_navigation_stack_vrep_simulation/devel/share/amcl/cmake/amclConfig-version.cmake
+Symlinking /home/sundong/Exploring/localplanning/ros_navigation_stack_vrep_simulation/devel/share/amcl/cmake/amclConfig.cmake
+Symlinking /home/sundong/Exploring/localplanning/ros_navigation_stack_vrep_simulation/devel/include/amcl/AMCLConfig.h
+Symlinking /home/sundong/Exploring/localplanning/ros_navigation_stack_vrep_simulation/devel/lib/libamcl_map.so
+Symlinking /home/sundong/Exploring/localplanning/ros_navigation_stack_vrep_simulation/devel/lib/libamcl_pf.so
+Symlinking /home/sundong/Exploring/localplanning/ros_navigation_stack_vrep_simulation/devel/lib/libamcl_sensors.so
+Symlinking /home/sundong/Exploring/localplanning/ros_navigation_stack_vrep_simulation/devel/lib/amcl/amcl
+Symlinking /home/sundong/Exploring/localplanning/ros_navigation_stack_vrep_simulation/devel/lib/python2.7/dist-packages/amcl/__init__.py
+Symlinking /home/sundong/Exploring/localplanning/ros_navigation_stack_vrep_simulation/devel/lib/python2.7/dist-packages/amcl/cfg/__init__.py
+Symlinking /home/sundong/Exploring/localplanning/ros_navigation_stack_vrep_simulation/devel/lib/python2.7/dist-packages/amcl/cfg/AMCLConfig.py
+Symlinking /home/sundong/Exploring/localplanning/ros_navigation_stack_vrep_simulation/devel/lib/pkgconfig/amcl.pc

@@ -1,0 +1,1 @@
+/usr/bin/ld: warning: libpcl_common.so.1.8, needed by /home/sundong/Exploring/localplanning/ros_navigation_stack_vrep_simulation/devel/.private/costmap_2d/lib/libcostmap_2d.so, may conflict with libpcl_common.so.1.7

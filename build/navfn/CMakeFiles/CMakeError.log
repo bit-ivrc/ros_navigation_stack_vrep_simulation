@@ -1,0 +1,72 @@
+Determining if the pthread_create exist failed with the following output:
+Change Dir: /home/sundong/Exploring/localplanning/ros_navigation_stack_vrep_simulation/build/navfn/CMakeFiles/CMakeTmp
+
+Run Build Command:"/usr/bin/make" "cmTC_bf165/fast"
+/usr/bin/make -f CMakeFiles/cmTC_bf165.dir/build.make CMakeFiles/cmTC_bf165.dir/build
+make[1]: Entering directory '/home/sundong/Exploring/localplanning/ros_navigation_stack_vrep_simulation/build/navfn/CMakeFiles/CMakeTmp'
+Building C object CMakeFiles/cmTC_bf165.dir/CheckSymbolExists.c.o
+/usr/bin/cc     -o CMakeFiles/cmTC_bf165.dir/CheckSymbolExists.c.o   -c /home/sundong/Exploring/localplanning/ros_navigation_stack_vrep_simulation/build/navfn/CMakeFiles/CMakeTmp/CheckSymbolExists.c
+Linking C executable cmTC_bf165
+/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTC_bf165.dir/link.txt --verbose=1
+/usr/bin/cc       CMakeFiles/cmTC_bf165.dir/CheckSymbolExists.c.o  -o cmTC_bf165 -rdynamic 
+CMakeFiles/cmTC_bf165.dir/CheckSymbolExists.c.o：在函数‘main’中：
+CheckSymbolExists.c:(.text+0x16)：对‘pthread_create’未定义的引用
+collect2: error: ld returned 1 exit status
+CMakeFiles/cmTC_bf165.dir/build.make:97: recipe for target 'cmTC_bf165' failed
+make[1]: *** [cmTC_bf165] Error 1
+make[1]: Leaving directory '/home/sundong/Exploring/localplanning/ros_navigation_stack_vrep_simulation/build/navfn/CMakeFiles/CMakeTmp'
+Makefile:126: recipe for target 'cmTC_bf165/fast' failed
+make: *** [cmTC_bf165/fast] Error 2
+
+File /home/sundong/Exploring/localplanning/ros_navigation_stack_vrep_simulation/build/navfn/CMakeFiles/CMakeTmp/CheckSymbolExists.c:
+/* */
+#include <pthread.h>
+
+int main(int argc, char** argv)
+{
+  (void)argv;
+#ifndef pthread_create
+  return ((int*)(&pthread_create))[argc];
+#else
+  (void)argc;
+  return 0;
+#endif
+}
+
+Determining if the function pthread_create exists in the pthreads failed with the following output:
+Change Dir: /home/sundong/Exploring/localplanning/ros_navigation_stack_vrep_simulation/build/navfn/CMakeFiles/CMakeTmp
+
+Run Build Command:"/usr/bin/make" "cmTC_916f8/fast"
+/usr/bin/make -f CMakeFiles/cmTC_916f8.dir/build.make CMakeFiles/cmTC_916f8.dir/build
+make[1]: Entering directory '/home/sundong/Exploring/localplanning/ros_navigation_stack_vrep_simulation/build/navfn/CMakeFiles/CMakeTmp'
+Building C object CMakeFiles/cmTC_916f8.dir/CheckFunctionExists.c.o
+/usr/bin/cc    -DCHECK_FUNCTION_EXISTS=pthread_create   -o CMakeFiles/cmTC_916f8.dir/CheckFunctionExists.c.o   -c /usr/share/cmake-3.5/Modules/CheckFunctionExists.c
+Linking C executable cmTC_916f8
+/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTC_916f8.dir/link.txt --verbose=1
+/usr/bin/cc   -DCHECK_FUNCTION_EXISTS=pthread_create    CMakeFiles/cmTC_916f8.dir/CheckFunctionExists.c.o  -o cmTC_916f8 -rdynamic -lpthreads 
+/usr/bin/ld: 找不到 -lpthreads
+collect2: error: ld returned 1 exit status
+CMakeFiles/cmTC_916f8.dir/build.make:97: recipe for target 'cmTC_916f8' failed
+make[1]: *** [cmTC_916f8] Error 1
+make[1]: Leaving directory '/home/sundong/Exploring/localplanning/ros_navigation_stack_vrep_simulation/build/navfn/CMakeFiles/CMakeTmp'
+Makefile:126: recipe for target 'cmTC_916f8/fast' failed
+make: *** [cmTC_916f8/fast] Error 2
+
+
+Determining if the include file pgm.h exists failed with the following output:
+Change Dir: /home/sundong/Exploring/localplanning/ros_navigation_stack_vrep_simulation/build/navfn/CMakeFiles/CMakeTmp
+
+Run Build Command:"/usr/bin/make" "cmTC_07ba9/fast"
+/usr/bin/make -f CMakeFiles/cmTC_07ba9.dir/build.make CMakeFiles/cmTC_07ba9.dir/build
+make[1]: Entering directory '/home/sundong/Exploring/localplanning/ros_navigation_stack_vrep_simulation/build/navfn/CMakeFiles/CMakeTmp'
+Building CXX object CMakeFiles/cmTC_07ba9.dir/CheckIncludeFile.cxx.o
+/usr/bin/c++      -o CMakeFiles/cmTC_07ba9.dir/CheckIncludeFile.cxx.o -c /home/sundong/Exploring/localplanning/ros_navigation_stack_vrep_simulation/build/navfn/CMakeFiles/CMakeTmp/CheckIncludeFile.cxx
+/home/sundong/Exploring/localplanning/ros_navigation_stack_vrep_simulation/build/navfn/CMakeFiles/CMakeTmp/CheckIncludeFile.cxx:1:17: fatal error: pgm.h: 没有那个文件或目录
+compilation terminated.
+CMakeFiles/cmTC_07ba9.dir/build.make:65: recipe for target 'CMakeFiles/cmTC_07ba9.dir/CheckIncludeFile.cxx.o' failed
+make[1]: *** [CMakeFiles/cmTC_07ba9.dir/CheckIncludeFile.cxx.o] Error 1
+make[1]: Leaving directory '/home/sundong/Exploring/localplanning/ros_navigation_stack_vrep_simulation/build/navfn/CMakeFiles/CMakeTmp'
+Makefile:126: recipe for target 'cmTC_07ba9/fast' failed
+make: *** [cmTC_07ba9/fast] Error 2
+
+

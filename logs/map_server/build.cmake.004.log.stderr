@@ -1,0 +1,9 @@
+[31m[1mCMake Error[0m at /usr/share/cmake-3.5/Modules/FindPackageHandleStandardArgs.cmake:148 (message):
+  Could NOT find SDL_image (missing: SDL_IMAGE_LIBRARIES
+  SDL_IMAGE_INCLUDE_DIRS)
+[36mCall Stack (most recent call first):[0m
+  /usr/share/cmake-3.5/Modules/FindPackageHandleStandardArgs.cmake:388 (_FPHSA_FAILURE_MESSAGE)
+  /usr/share/cmake-3.5/Modules/FindSDL_image.cmake:102 (FIND_PACKAGE_HANDLE_STANDARD_ARGS)
+  CMakeLists.txt:13 (find_package)
+
+

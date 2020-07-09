@@ -1,0 +1,7 @@
+Symlinking /home/sundong/Exploring/localplanning/ros_navigation_stack_vrep_simulation/devel/share/map_server/cmake/map_serverConfig-version.cmake
+Symlinking /home/sundong/Exploring/localplanning/ros_navigation_stack_vrep_simulation/devel/share/map_server/cmake/map_serverConfig.cmake
+Symlinking /home/sundong/Exploring/localplanning/ros_navigation_stack_vrep_simulation/devel/lib/libmap_server_image_loader.so
+Symlinking /home/sundong/Exploring/localplanning/ros_navigation_stack_vrep_simulation/devel/lib/pkgconfig/map_server.pc
+Symlinking /home/sundong/Exploring/localplanning/ros_navigation_stack_vrep_simulation/devel/lib/map_server/rtest
+Symlinking /home/sundong/Exploring/localplanning/ros_navigation_stack_vrep_simulation/devel/lib/map_server/map_saver
+Symlinking /home/sundong/Exploring/localplanning/ros_navigation_stack_vrep_simulation/devel/lib/map_server/map_server
