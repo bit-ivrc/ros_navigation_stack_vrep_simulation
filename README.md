@@ -3,7 +3,7 @@
 ros navigation simulation using vrep.  
 
 ```
-git clone https://github.com/Dysonsun/ros_navigation_stack_vrep_simulation_manta.git && cd ros_navigation_stack_vrep_simulation_manta && git submodule -q update --init --recursive
+git clone https://github.com/Dysonsun/ros_navigation_stack_vrep_simulation.git && cd ros_navigation_stack_vrep_simulation && git submodule -q update --init --recursive
 ```
 
 ## install library
@@ -39,7 +39,6 @@ catkin build
 1. run roscore in the termimal.
 2. open vrep by running `vrep` command in the terminal(**Note**: You have to run roscore before launching vrep).
 3. load the scene file `navigation_manta.ttt` under `scenes`.
-4.
 ```
 source devel/setup.bash
 roslaunch move_base move_base.launch
