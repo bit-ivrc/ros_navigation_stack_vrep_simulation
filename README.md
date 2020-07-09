@@ -16,7 +16,7 @@ This script will install ros.
 
 **If you have already installed ros**,  
 ```
-./scripts/install_ros.sh
+./scripts/install_vrep.sh
 ```
 This script will install vrep.
 
@@ -41,7 +41,6 @@ catkin build
 3. load the scene file `navigation_manta.ttt` under `scenes`.
 4.
 ```
-cd src/Navigation/move_base
 source devel/setup.bash
 roslaunch move_base move_base.launch
 ```
