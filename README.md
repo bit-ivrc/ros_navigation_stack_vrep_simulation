@@ -3,7 +3,7 @@
 ros navigation simulation using vrep.  
 
 ```
-git clone https://github.com/Dysonsun/ros_navigation_stack_vrep_simulation.git && cd ros_navigation_stack_vrep_simulation && git submodule -q update --init --recursive
+git clone https://github.com/bit-ivrc/ros_navigation_stack_vrep_simulation.git && cd ros_navigation_stack_vrep_simulation
 ```
 
 ## install library
