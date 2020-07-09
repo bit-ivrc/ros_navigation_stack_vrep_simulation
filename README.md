@@ -43,6 +43,6 @@ catkin build
 source devel/setup.bash
 roslaunch move_base move_base.launch
 ```
-5. run simulation at vrep.
-6. set goal point.
+4. run simulation at vrep.
+5. set goal point.
 
