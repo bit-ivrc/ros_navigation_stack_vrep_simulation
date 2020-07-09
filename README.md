@@ -46,3 +46,5 @@ roslaunch move_base move_base.launch
 4. run simulation at vrep.
 5. set goal point.
 
+Related stacks
+   https://github.com/ros-planning/navigation.git
