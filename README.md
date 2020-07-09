@@ -43,9 +43,10 @@ catkin build
 source devel/setup.bash
 roslaunch move_base move_base.launch
 ```
-5. run simulation at vrep.
-6. set goal point.
+4. run simulation at vrep.
+5. set goal point.
 
+<<<<<<< HEAD
 ##configuration
 ros_navigation_stack_vrep_simulation/src/Navigation/move_base/cfg/base_local_planner_params.yaml
   speed range: max_vel_x  min_vel_x
@@ -57,3 +58,7 @@ ros_navigation_stack_vrep_simulation/src/Navigation/move_base/cfg/base_local_pla
 ##Related stacks 
 https://github.com/ros-planning/navigation.git
 
+=======
+Related stacks
+   https://github.com/ros-planning/navigation.git
+>>>>>>> 6814c651e3525782a3d53e4ce435a163ee8c3aa2
