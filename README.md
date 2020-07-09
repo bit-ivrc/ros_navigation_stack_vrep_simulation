@@ -54,6 +54,6 @@ ros_navigation_stack_vrep_simulation/src/Navigation/move_base/cfg/base_local_pla
   limit of lateral acceleration: acc_lim_y 
   sample time: sim_time: 4.0
 
-Related stacks 
+##Related stacks 
 https://github.com/ros-planning/navigation.git
 
