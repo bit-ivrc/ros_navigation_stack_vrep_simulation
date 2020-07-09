@@ -1,1 +1,0 @@
-/home/sundong/Exploring/localplanning/ros_navigation_stack_vrep_simulation/devel/.private/dwa_local_planner/include/dwa_local_planner/DWAPlannerConfig.h

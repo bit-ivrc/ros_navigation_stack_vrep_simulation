@@ -1,1 +1,0 @@
-/home/sundong/Exploring/localplanning/ros_navigation_stack_vrep_simulation/devel/.private/navfn/share/roseus/ros/navfn/srv/SetCostmap.l

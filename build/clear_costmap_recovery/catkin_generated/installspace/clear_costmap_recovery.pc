@@ -1,8 +1,0 @@
-prefix=/home/sundong/Exploring/localplanning/ros_navigation_stack_vrep_simulation/install
-
-Name: clear_costmap_recovery
-Description: Description of clear_costmap_recovery
-Version: 1.14.4
-Cflags: -I${prefix}/include
-Libs: -L${prefix}/lib -lclear_costmap_recovery
-Requires: costmap_2d nav_core pluginlib roscpp tf

@@ -1,8 +1,0 @@
-prefix=/home/sundong/Exploring/localplanning/ros_navigation_stack_vrep_simulation/install
-
-Name: dwa_local_planner
-Description: Description of dwa_local_planner
-Version: 1.14.4
-Cflags: -I${prefix}/include
-Libs: -L${prefix}/lib -ldwa_local_planner
-Requires: dynamic_reconfigure nav_msgs pluginlib roscpp

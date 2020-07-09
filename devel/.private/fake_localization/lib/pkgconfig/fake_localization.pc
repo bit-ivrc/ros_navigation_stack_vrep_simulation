@@ -1,8 +1,0 @@
-prefix=/home/sundong/Exploring/localplanning/ros_navigation_stack_vrep_simulation/devel/.private/fake_localization
-
-Name: fake_localization
-Description: Description of fake_localization
-Version: 1.14.4
-Cflags: 
-Libs: -L${prefix}/lib 
-Requires: geometry_msgs nav_msgs roscpp rospy

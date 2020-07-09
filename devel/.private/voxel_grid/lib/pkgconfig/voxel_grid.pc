@@ -1,8 +1,0 @@
-prefix=/home/sundong/Exploring/localplanning/ros_navigation_stack_vrep_simulation/devel/.private/voxel_grid
-
-Name: voxel_grid
-Description: Description of voxel_grid
-Version: 1.14.4
-Cflags: -I/home/sundong/Exploring/localplanning/ros_navigation_stack_vrep_simulation/src/Navigation/voxel_grid/include
-Libs: -L${prefix}/lib -lvoxel_grid
-Requires: roscpp

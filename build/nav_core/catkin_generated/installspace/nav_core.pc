@@ -1,8 +1,0 @@
-prefix=/home/sundong/Exploring/localplanning/ros_navigation_stack_vrep_simulation/install
-
-Name: nav_core
-Description: Description of nav_core
-Version: 1.14.4
-Cflags: -I${prefix}/include
-Libs: -L${prefix}/lib 
-Requires: std_msgs geometry_msgs tf costmap_2d
