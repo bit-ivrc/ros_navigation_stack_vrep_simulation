@@ -1,1 +1,0 @@
-/usr/bin/c++  -fPIC   -shared  -o /home/sundong/Exploring/localplanning/ros_navigation_stack_vrep_simulation/vrep_ws/devel/lib/GeographicLib.so CMakeFiles/GeographicLib.dir/src/lua_Constants.cpp.o CMakeFiles/GeographicLib.dir/src/lua_Geocentric.cpp.o CMakeFiles/GeographicLib.dir/src/lua_GeographicLib.cpp.o CMakeFiles/GeographicLib.dir/src/lua_LocalCartesian.cpp.o -lGeographic 

@@ -429,9 +429,9 @@ clean: CMakeFiles/_dbw_mkz_msgs_generate_messages_check_deps_Misc1Report.dir/cle
 # Target rules for target CMakeFiles/dbw_mkz_msgs_generate_messages.dir
 
 # All Build rule for target.
-CMakeFiles/dbw_mkz_msgs_generate_messages.dir/all: CMakeFiles/dbw_mkz_msgs_generate_messages_py.dir/all
 CMakeFiles/dbw_mkz_msgs_generate_messages.dir/all: CMakeFiles/dbw_mkz_msgs_generate_messages_nodejs.dir/all
 CMakeFiles/dbw_mkz_msgs_generate_messages.dir/all: CMakeFiles/dbw_mkz_msgs_generate_messages_lisp.dir/all
+CMakeFiles/dbw_mkz_msgs_generate_messages.dir/all: CMakeFiles/dbw_mkz_msgs_generate_messages_py.dir/all
 CMakeFiles/dbw_mkz_msgs_generate_messages.dir/all: CMakeFiles/dbw_mkz_msgs_generate_messages_cpp.dir/all
 CMakeFiles/dbw_mkz_msgs_generate_messages.dir/all: CMakeFiles/dbw_mkz_msgs_generate_messages_eus.dir/all
 	$(MAKE) -f CMakeFiles/dbw_mkz_msgs_generate_messages.dir/build.make CMakeFiles/dbw_mkz_msgs_generate_messages.dir/depend

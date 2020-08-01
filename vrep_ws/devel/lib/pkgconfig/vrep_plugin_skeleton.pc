@@ -1,8 +1,0 @@
-prefix=/home/sundong/Exploring/localplanning/ros_navigation_stack_vrep_simulation/vrep_ws/devel
-
-Name: vrep_plugin_skeleton
-Description: Description of vrep_plugin_skeleton
-Version: 3.4.0
-Cflags: 
-Libs: -L${prefix}/lib 
-Requires: roscpp rosconsole std_msgs roslib roscpp rosconsole std_msgs

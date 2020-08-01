@@ -1,8 +1,0 @@
-prefix=/home/sundong/Exploring/localplanning/ros_navigation_stack_vrep_simulation/vrep_ws/devel
-
-Name: vrep_skeleton_msg_and_srv
-Description: Description of vrep_skeleton_msg_and_srv
-Version: 3.4.0
-Cflags: -I/home/sundong/Exploring/localplanning/ros_navigation_stack_vrep_simulation/vrep_ws/devel/include
-Libs: -L${prefix}/lib 
-Requires: message_runtime

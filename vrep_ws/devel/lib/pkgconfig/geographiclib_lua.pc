@@ -1,8 +1,0 @@
-prefix=/home/sundong/Exploring/localplanning/ros_navigation_stack_vrep_simulation/vrep_ws/devel
-
-Name: geographiclib_lua
-Description: Description of geographiclib_lua
-Version: 1.0.0
-Cflags: 
-Libs: -L${prefix}/lib 
-Requires: 

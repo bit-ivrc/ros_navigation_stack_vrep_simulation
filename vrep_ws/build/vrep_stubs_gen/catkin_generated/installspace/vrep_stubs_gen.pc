@@ -1,8 +1,0 @@
-prefix=/home/sundong/Exploring/localplanning/ros_navigation_stack_vrep_simulation/vrep_ws/install
-
-Name: vrep_stubs_gen
-Description: Description of vrep_stubs_gen
-Version: 1.0.0
-Cflags: 
-Libs: -L${prefix}/lib 
-Requires: 

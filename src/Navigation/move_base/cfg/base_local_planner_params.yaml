@@ -1,15 +1,15 @@
 TrajectoryPlannerROS:
-  max_vel_x: 10
-  min_vel_x: 1.5
+  max_vel_x: 10                 #速度范围
+  min_vel_x: 1.5                
   max_vel_theta: 2.0
   min_in_place_vel_theta: 0.4
 
-  acc_lim_theta: 4
-  acc_lim_x: 3
-  acc_lim_y: 0
+  acc_lim_theta: 4              #角加速度上线
+  acc_lim_x: 3                  #纵向加速度上限
+  acc_lim_y: 1                  #横向加速度上限
 
   holonomic_robot: false
   publish_cost_grid_pc: true
-  sim_time: 4.0
+  sim_time: 4.0                 #采样时间
   controller_frequency: 8
   sim_granularity: 0.3

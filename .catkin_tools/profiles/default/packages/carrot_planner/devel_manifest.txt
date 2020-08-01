@@ -1,6 +1,0 @@
-Navigation/carrot_planner
-/home/sundong/Exploring/localplanning/ros_navigation_stack_vrep_simulation/devel/.private/carrot_planner/cmake.lock /home/sundong/Exploring/localplanning/ros_navigation_stack_vrep_simulation/devel/./cmake.lock
-/home/sundong/Exploring/localplanning/ros_navigation_stack_vrep_simulation/devel/.private/carrot_planner/share/carrot_planner/cmake/carrot_plannerConfig-version.cmake /home/sundong/Exploring/localplanning/ros_navigation_stack_vrep_simulation/devel/share/carrot_planner/cmake/carrot_plannerConfig-version.cmake
-/home/sundong/Exploring/localplanning/ros_navigation_stack_vrep_simulation/devel/.private/carrot_planner/share/carrot_planner/cmake/carrot_plannerConfig.cmake /home/sundong/Exploring/localplanning/ros_navigation_stack_vrep_simulation/devel/share/carrot_planner/cmake/carrot_plannerConfig.cmake
-/home/sundong/Exploring/localplanning/ros_navigation_stack_vrep_simulation/devel/.private/carrot_planner/lib/libcarrot_planner.so /home/sundong/Exploring/localplanning/ros_navigation_stack_vrep_simulation/devel/lib/libcarrot_planner.so
-/home/sundong/Exploring/localplanning/ros_navigation_stack_vrep_simulation/devel/.private/carrot_planner/lib/pkgconfig/carrot_planner.pc /home/sundong/Exploring/localplanning/ros_navigation_stack_vrep_simulation/devel/lib/pkgconfig/carrot_planner.pc

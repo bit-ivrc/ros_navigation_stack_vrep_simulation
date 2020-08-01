@@ -1497,10 +1497,10 @@ clean: CMakeFiles/anm_msgs_generate_messages_cpp.dir/clean
 # Target rules for target CMakeFiles/anm_msgs_generate_messages.dir
 
 # All Build rule for target.
+CMakeFiles/anm_msgs_generate_messages.dir/all: CMakeFiles/anm_msgs_generate_messages_eus.dir/all
 CMakeFiles/anm_msgs_generate_messages.dir/all: CMakeFiles/anm_msgs_generate_messages_py.dir/all
 CMakeFiles/anm_msgs_generate_messages.dir/all: CMakeFiles/anm_msgs_generate_messages_nodejs.dir/all
 CMakeFiles/anm_msgs_generate_messages.dir/all: CMakeFiles/anm_msgs_generate_messages_lisp.dir/all
-CMakeFiles/anm_msgs_generate_messages.dir/all: CMakeFiles/anm_msgs_generate_messages_eus.dir/all
 CMakeFiles/anm_msgs_generate_messages.dir/all: CMakeFiles/anm_msgs_generate_messages_cpp.dir/all
 	$(MAKE) -f CMakeFiles/anm_msgs_generate_messages.dir/build.make CMakeFiles/anm_msgs_generate_messages.dir/depend
 	$(MAKE) -f CMakeFiles/anm_msgs_generate_messages.dir/build.make CMakeFiles/anm_msgs_generate_messages.dir/build
